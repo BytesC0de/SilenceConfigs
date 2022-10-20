@@ -1,2 +1,3 @@
 SuperCraft
+SuperCraftSafe
 LatinPlay
